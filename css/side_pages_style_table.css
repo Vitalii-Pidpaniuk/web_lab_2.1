@@ -114,6 +114,7 @@ table{
   color: white;
   width: 16.35%;
   min-width: 200px;
+  max-width: 300px;
   padding: 14px 20px;
   text-decoration: none;
   text-align: center;
